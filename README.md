@@ -39,7 +39,8 @@ One model on the dataset found in the file <i>humanoid_robot.csv</i>, <br>
 and another on the dataset found in the file <i>zombie_apocalypse.csv</i>.<br>
 <br>
 The <i>hyperparameters</i> you have found in your training sessions<br>
-can then be used in the <i>Flask game</i> <b>Zombie</b>.<br>
+can then be used in the <i>Flask game</i> <b>Zombie</b><br>
+(Made with a little help from <i>Claude</i>).<br>
 <br>
 Try it out!
 
