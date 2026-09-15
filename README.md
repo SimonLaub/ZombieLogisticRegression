@@ -21,5 +21,6 @@ But with a stroke of good luck, we have your survival tool ready: Logistic regre
 We have trained a model on <i>zombie apocalypse survival</i> data, <br>
 and its accuracy on the test data was 54.2%... (hmmm)...<br>
 Which allows us to calculate your chances of survival.<br>
-
+<br>
+Given these <i>odds</i> you cna then decide what to do.<br>
 Let's see what your odds are.<br>
