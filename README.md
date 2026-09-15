@@ -5,7 +5,8 @@ Learn about <i>Logistic Regression</i> with a <i>Zombie</i> game in Flask.<br>
 <br>
 You have received a new robot. <br>You have now completed initialization test on the robot. <br>Your test indicate that the robot can work alone.<br>
 <br>
-You naively let the robot work alone in the basement. <br>
+So far, so good.<br>
+(Sadly) You naively let the robot work alone in the basement. <br>
 Nobody told your team what robo-7 is actually working with.<br>
 <br>
 Deep underneath the building is a secret laboratory containing a collection of experimental viruses.<br>
