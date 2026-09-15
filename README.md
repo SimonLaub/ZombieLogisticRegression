@@ -14,7 +14,6 @@ Deep underneath the building is a secret laboratory<br>containing a collection o
 Your robot drops a can of experimental viruses, and<br>
 the <i>Zombie Apocalypse</i> begins.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie2.jpg" alt="Zombie Logistic Regression" width="250" height="auto"><br>
-<br>
 Logistic regression to the rescue.<br>
 <br>
 But with a stroke of good luck, we have your survival tool ready: Logistic regression!<br>
