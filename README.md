@@ -15,5 +15,8 @@ Your robot drops a can of experimental viruses, and<br>
 the <i>Zombie Apocalypse</i> begins.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie2.jpg" alt="Zombie Logistic Regression" width="250" height="auto"><br>
 <br>
-But with a stroke of good luck, we have your survival tool ready: logistic regression!<br>
-We trained the model on zombie apocalypse survival data, and its accuracy on the test data was 54.2%. Let's see what your odds are.<br>
+Logistic regression to the rescue.<br>
+<br>
+But with a stroke of good luck, we have your survival tool ready: Logistic regression!<br>
+We trained the model on <i>zombie apocalypse survival</i> data, <br>and its accuracy on the test data was 54.2%. <br>
+Let's see what your odds are.<br>
