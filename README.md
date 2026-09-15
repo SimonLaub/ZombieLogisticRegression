@@ -17,5 +17,8 @@ the <i>Zombie Apocalypse</i> begins.<br>
 Logistic regression to the rescue.<br>
 <br>
 But with a stroke of good luck, we have your survival tool ready: Logistic regression!<br>
-We trained the model on <i>zombie apocalypse survival</i> data, <br>and its accuracy on the test data was 54.2%. <br>
+<br>
+We have trained a model on <i>zombie apocalypse survival</i> data, <br>and its accuracy on the test data was 54.2%. <br>
+Which allows us to calculate your chances of survival.<br>
+
 Let's see what your odds are.<br>
