@@ -26,7 +26,7 @@ Given these <i>odds</i> you can then decide what to do.<br>
 <br>
 Let's see what your odds are.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie3.jpg" alt="Zombie Logistic Regression" width="250" height="auto"><br>
-<br><i><b>Well, well</b></i>
+<br><i><b>Well, well...</b></i>
 <br>
 As you might have guessed by now...<br>
 This is a game ...
