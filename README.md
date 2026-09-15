@@ -33,6 +33,7 @@ As you might have guessed by now...<br>
 This is a game ...:)<br>
 <br>
 Your job is to train two <i>Logistic Regression</i> models.<br>
-One on dataset found in the file <i>humanoid_robot.csv</i>, <br>
+<br>
+One model on dataset found in the file <i>humanoid_robot.csv</i>, <br>
 and another on the dataset found in the file <i>zombie_apocalypse.csv</i>.
 
