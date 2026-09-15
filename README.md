@@ -8,7 +8,7 @@ So far, so good...<br>
 <br>
 (Sadly) You naively let the robot work alone in the basement. <br>
 Nobody told your team what robo-7 is actually working with.<br>
-- <br>
+...<br>
 Deep underneath the building is a secret laboratory<br>containing a collection of experimental viruses.<br>
 <br>
 But with a stroke of good luck, we have your survival tool ready: logistic regression!<br>
