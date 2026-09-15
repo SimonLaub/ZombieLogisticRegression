@@ -1,7 +1,7 @@
 # Zombie Logistic Regression
 Learn about <i>Logistic Regression</i> with a <i>Zombie</i> game in Flask.<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie1.jpg" alt="An image of a palm tree from Unsplash" width="250" height="auto"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie1.jpg" alt="Zombie Logistic Regression" width="250" height="auto"><br>
 <br>
 You have received a new robot. <br>You have now completed initialization test on the robot. <br>Your test indicate that the robot can work alone.<br>
 So far, so good...<br>
@@ -13,5 +13,7 @@ Deep underneath the building is a secret laboratory<br>containing a collection o
 <br>
 Your robot drops a can of experimental viruses, and<br>
 the <i>Zombie Apocalypse</i> begins.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie2.jpg" alt="Zombie Logistic Regression" width="250" height="auto"><br>
+<br>
 But with a stroke of good luck, we have your survival tool ready: logistic regression!<br>
 We trained the model on zombie apocalypse survival data, and its accuracy on the test data was 54.2%. Let's see what your odds are.<br>
