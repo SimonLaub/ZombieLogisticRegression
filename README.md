@@ -36,5 +36,8 @@ This is a game ...:)<br>
 Your job is to train two <i>Logistic Regression</i> models.<br>
 <br>
 One model on the dataset found in the file <i>humanoid_robot.csv</i>, <br>
-and another on the dataset found in the file <i>zombie_apocalypse.csv</i>.
+and another on the dataset found in the file <i>zombie_apocalypse.csv</i>.<br>
+<br>
+The <i>hyperparameters</i> you have found in your training sessions<br>
+can then be used in the <i>Flask game</i> <b>Zombie</b>
 
