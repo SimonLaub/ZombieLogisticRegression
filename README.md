@@ -3,7 +3,7 @@ Learn about <i>Logistic Regression</i> with a <i>Zombie</i> game in Flask.<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie1.jpg" alt="An image of a palm tree from Unsplash" width="250" height="auto"><br>
 <br>
-You have received a new robot. Tested it, and your test found that it can work alone.<br>
+You have received a new robot. <br>Tested it, and your test found that it can work alone.<br>
 <br>
 You naively let the robot work alone in the basement. <br>
 Nobody told your team what robo-7 is actually working with.<br>
