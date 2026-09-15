@@ -16,6 +16,7 @@ the <i>Zombie Apocalypse</i> begins.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Zombie2.jpg" alt="Zombie Logistic Regression" width="250" height="auto"><br>
 Logistic regression to the rescue.<br>
 <br>
+I.e.<br>
 But with a stroke of good luck, we have your survival tool ready: <i>Logistic Regression</i>!<br>
 <br>
 We have trained a model on <i>zombie apocalypse survival</i> data, <br>
